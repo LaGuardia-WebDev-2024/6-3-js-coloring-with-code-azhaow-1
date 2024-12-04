@@ -39,6 +39,8 @@ void draw(){
   fill(0,0,0)
   ellipse(180,115,5,5);
   ellipse (210, 115, 5, 5);
+  fill(252, 154, 36)
+  ellipse (195, 130, 5, 5)
   
   
   
